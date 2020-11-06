@@ -27,7 +27,7 @@
 
 ### 機能一覧
 
-https://docs.google.com/spreadsheets/d/1vb1Ejn7tta9JbXwemmZI5QKQRyu98LEuoKX-TqAHrPg/edit#gid=0
+https://docs.google.com/spreadsheets/d/1vb1Ejn7tta9JbXwemmZI5QKQRyu98LEuoKX-TqAHrPg/edit?usp=sharing
 
 ## 開発環境
 
